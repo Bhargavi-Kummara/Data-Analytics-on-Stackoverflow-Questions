@@ -9,7 +9,7 @@ We aimed to collect data using Web Scraping instead of using survey data which i
 Additionally, we have provided the user with a freedom to do the analysis on any domain and have provided various options for them to do the analysis:
 
 ## Web-scraping:
-!![image](https://user-images.githubusercontent.com/51737416/143572143-fe65f3d0-ecda-448b-88bd-f5add02b2619.png)
+![image](https://user-images.githubusercontent.com/51737416/143572143-fe65f3d0-ecda-448b-88bd-f5add02b2619.png)
 
 ## Analytics:
 ![image](https://user-images.githubusercontent.com/51737416/143451050-575c4a60-2c44-46d2-a31c-010b8c53df9b.png)
